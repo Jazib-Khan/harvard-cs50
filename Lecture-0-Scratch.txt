@@ -1,0 +1,26 @@
+Binary:
+
+- Binary = base 2 numeral system.
+- Information in machines and technology are represented by off an on bits.
+- 1 byte = 8 bits
+
+ASCII:
+
+- Letters are represented by an assigned number (A = 65), This is known as ASCII.
+
+Unicode:
+
+- Characters are represented by Unicode which is a superset of ASCII.
+- Unicode is a base 16 system otherwise as hexadecimal.
+
+Colour:
+
+- Red, Green and Blue each represented by an assigned number of a byte.
+
+Algorithms:
+
+- Not only do we try and solve problem correctly but to design algorithms that are efficient in time to solve and size of problem.
+
+Pseudocode:
+
+- Instructions written code like that is highly readable and understandable.
