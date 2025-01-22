@@ -1,0 +1,36 @@
+Machine Code:
+
+- Computers only understand binary 0's and 1's more commonly known as machine code.
+- These pattern's of 0's and 1's output letters, characters, commands and instructions.
+- A compiler is what converts one language into another. For this instance it'll be from source code (C) to machine code.
+
+C library:
+
+- A lot of the functionality is tucked away in separate files
+- #include tells the compiler to include certain functions such as printf.
+- In C we are calling <stdio.h> as this contains the functions we need.
+- A library which is code that someone else wrote.
+- A header file is a file that ends in .h that gives access to certain functions.
+- Manual pages are textual files to learn how functions works.
+- %s is used to print a string of characters.
+- <stdio.h> means standard io.h which means standard input and output e.g. stuff involving the screen and the keyboard.
+
+Conditionals:
+
+- Conditionals are what we use to make a decision in a program.
+
+Variables:
+
+- counter = counter + 1 can be rewritten as counter++
+
+Integer overflow:
+
+- Integers can only count so high before it runs out of bits.
+
+Type casting:
+
+- Converting one type to another, so treating one type like it's another, such as changing integer to float.
+
+Floating-Point Imprecision:
+
+- If integer overflow only go so far high before running out of bits then floating point imprecision shows inaccuracy due to memory.
