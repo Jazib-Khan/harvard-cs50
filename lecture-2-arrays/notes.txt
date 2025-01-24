@@ -1,0 +1,35 @@
+Compiling:
+
+- Compiling is the process of taking source code and converting it into assembly code.
+- preprocessing converts all hash include lines and other's to their equivalent.
+- Compiling converts the C code to assembly code, assembling step converts assembly code, i.e 0's and 1's.
+- The final step which is linking, combines all the 0's and 1's from all files involved, links them all together.
+
+Memory:
+
+- 8 bits in one byte.
+- bool, 1 byte
+- int, 4 bytes
+- long, 8 bytes
+- float, 4 bytes
+- double, 8 bytes
+- char, 1 byte
+- string, ? bytes
+
+String:
+
+- A sequence of characters
+
+Exit Status:
+
+- These are codes the software provides to map the error in the program.
+
+Cryptography:
+
+- The ability to send information security, the art and science of encrypting.
+- encryption means to scramble information.
+- plain text is readable text
+- cipher text is what plain text gets converted to before it's handed off.
+- a cipher is an algorithm for encrypting in a reversible way.
+- a key is involved typically as a big number that shifts plain text to ciphertext.
+- ROT13 is a Caesar cipher with a key of 13.
