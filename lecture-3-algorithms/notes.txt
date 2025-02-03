@@ -1,0 +1,63 @@
+Array:
+
+- A collection of consecutive memory.
+
+Linear Search:
+
+- Searching through each element in a list or array until a match is found.
+- Starts at the beginning, compare and move, repeat until found or at the end.
+
+Binary Search:
+
+- A Binary search his highly efficient for finding a specific value within a sorted array.
+- It operates on the principles of repeatedly dividing the search interval in half until the target value is found or the interval becomes empty.
+1) Find the middle element
+2) Compare and divide:
+        - If the middle element is the target value, the search is successful.
+        - If the target value is less than the middle element, discard the right half of the array and repeat the process on the left half.
+        - If that target value is greater than the middle element, discard the left half of the array and repeat the process on the right half.
+3) Repeat until found or empty.
+
+Running Time:
+
+- Big O Notation.
+- N is representative of the number of things.
+- O is the order of.
+- Type of Big O Notations:
+    - O(n^2)
+    - O(n log n)
+    - O(n)
+    - O(log n)
+    - O(1)
+- O(n) is a linear time algorithm.
+- O(n^2) is a quadratic time complexity where complexity grows proportionally to the square of the input size (n).
+- O(1) is a constant time complexity where complexity takes the same amount of time to execute, regardless of the size of the input data.
+- O(log n) is a logarithmic time complexity, divide and conquer.
+- O(n log n) is a Linearithmic time complexity where it combines linear growth (n) with logarithmic growth (log n).
+
+Data Structures:
+
+- A specialized format for organizing and storing data.
+
+Structure:
+
+- A structure can be a variable that contains any number of other variables
+
+Selection Sort:
+
+- Selecting the smallest element again and again by going the whole list each time.
+- Big O of O(n^2)
+
+Bubble Sort:
+
+- Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+- Big O of O(n^2)
+
+Recursion:
+
+- A function that calls itself
+
+Merge Sort:
+
+- Merge Sort is an efficient, and stable sorting algorithm that uses the divide-and-conquer approach to sort elements. It works by recursively dividing the input array into smaller subarrays, sorting them, and then merging the sorted subarrays back together to produce the final sorted array.
+- Big O of O(n log n)
