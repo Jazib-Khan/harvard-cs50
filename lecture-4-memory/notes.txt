@@ -1,0 +1,11 @@
+Hexadecimal:
+
+- base 16
+
+Pointers:
+
+- An address in the memory of a variable.
+
+Garbage values:
+
+- Values of variables that you did not set yourself as intended.
